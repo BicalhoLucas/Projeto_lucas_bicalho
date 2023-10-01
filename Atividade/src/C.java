@@ -4,6 +4,7 @@ public class C {
 
     public void MC1() {
         System.out.println("MC1");
+        //alteração feita no clone
     }
 
     public void MC2() {

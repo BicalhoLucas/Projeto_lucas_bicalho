@@ -9,6 +9,7 @@ public class A {
     }
     public void setA1(int a1) {
         A1 = a1;
+        //setando o valor de A1
     }
 
     public float getA2() {
